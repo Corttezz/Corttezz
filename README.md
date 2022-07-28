@@ -5,8 +5,8 @@ Hi there 👋 Eu sou Daniel Cortez
 
 <div align="center">
   <a href="https://github.com/Corttezz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=corttezz&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corttezz&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=corttezz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corttezz&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 ##
