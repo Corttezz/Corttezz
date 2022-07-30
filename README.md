@@ -1,14 +1,16 @@
-Hi there 👋 Eu sou Daniel Cortez
+<div align="center"> <a href="https://www.instagram.com/cortez___daniel/" target="_blank"><img width="1000px" height="420px" "align= "center" src="https://media3.giphy.com/media/ZkUMyzW7Q7quI/giphy.gif?cid=790b7611c777914a92155ace3b1eae9710233649548fedf6&rid=giphy.gif&ct=g" target="_blank"></a> </div>
 
-- 🌱 I’m currently learning JavaScript and Python
-- 📫 How to reach me: cortezjuninho@hotmail.com
+<h1 align="center"> Hi there 👋 Eu sou Daniel Cortez </h1>
+
+<h2 align="center"> - 🌱 I’m currently learning JavaScript and Python </h2>
+<h2 align="center"> - 📫 How to reach me: cortezjuninho@hotmail.com </h2>
 
 ##
 
 <div align="center">
   <a href="https://github.com/Corttezz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=corttezz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corttezz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=corttezz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corttezz&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ##
