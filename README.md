@@ -1,4 +1,4 @@
-<div align="center"> <a href="https://www.instagram.com/cortez___daniel/" target="_blank"><img width="1000px" height="420px" "align= "center" src="https://media3.giphy.com/media/ZkUMyzW7Q7quI/giphy.gif?cid=790b7611c777914a92155ace3b1eae9710233649548fedf6&rid=giphy.gif&ct=g" target="_blank"></a> </div>
+<div align="center"> <a href="https://www.instagram.com/cortez___daniel/" target="_blank"><img width="700px" height="420px" "align= "center" src="https://media3.giphy.com/media/ZkUMyzW7Q7quI/giphy.gif?cid=790b7611c777914a92155ace3b1eae9710233649548fedf6&rid=giphy.gif&ct=g" target="_blank"></a> </div>
 
 <h1 align="center"> Hi there 👋 Eu sou Daniel Cortez </h1>
 
