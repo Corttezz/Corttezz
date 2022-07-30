@@ -2,10 +2,9 @@
 
 <h1 align="center"> Hi there 👋 Eu sou Daniel Cortez </h1>
 
-<h2 align="center"> - 🌱 I’m currently learning JavaScript and Python </h2>
-<h2 align="center"> - 📫 How to reach me: cortezjuninho@hotmail.com </h2>
+<h2 align="center"> - 🌱 I’m currently learning JavaScript and Python <br>
+  - 📫 How to reach me: cortezjuninho@hotmail.com </h2>
 
-##
 
 <div align="center">
   <a href="https://github.com/Corttezz">
